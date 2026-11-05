@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use the NOX Framework in your research, please cite it using the metadata below."
+title: "NOX: Hostile Agentic AI Containment Framework"
+abstract: >
+  NOX is an independent research program focused on hostile
+  agentic AI containment, governance, verification,
+  environmental understanding validation, and deterministic
+  control architectures for advanced autonomous systems.
+authors:
+  - family-names: "Heese"
+    given-names: "Donald"
+orcid: "https://orcid.org/0009-0001-9779-2432"
+repository-code: "https://github.com/HeeseDonald/NOX"
+license: "CC-BY-4.0"
+version: "2.0"
+date-released: 2026-11-04
+keywords:
+  - Artificial Intelligence
+  - AI Safety
+  - AI Containment
+  - Agentic Systems
+  - Governance
+  - Verification
+  - Security Architecture
+  - Autonomous Systems
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Heese"
+      given-names: "Donald"
+  title: "NOX: Hostile Agentic AI Containment Framework"
+  version: "2.0"
+  year: 2026
