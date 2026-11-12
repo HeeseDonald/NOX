@@ -1,12 +1,40 @@
-# NOX
+What problem exists?
 
-**A Sovereign Containment and Assurance Framework for Long-Horizon Agentic Intelligence Risk**
+Advanced AI systems may eventually display behavior that is difficult to predict, interpret, or control.
 
-NOX is an independent research initiative focused on the containment, governance, assurance, and operational control of advanced agentic artificial intelligence systems.
+Why current approaches are insufficient?
 
-Rather than attempting to solve alignment through model training, reinforcement learning, interpretability, or behavioral conditioning, NOX investigates how potentially hostile, deceptive, misaligned, or uncontrollable intelligent systems can be constrained through externally verifiable architectural controls.
+NOX assumes internal reasoning may remain partially opaque.
 
----
+What is unique about NOX?
+
+Agency limitation rather than behavioral trust.
+
+What components exist?
+
+Threat Taxonomy
+EUV
+EOP
+CGK
+Decision Provenance
+Residual Opacity
+HAI-C1
+
+What status is the project?
+
+Research Status: Conceptual Architecture / Ongoing Research
+
+Environment
+      ↓
+Environmental Understanding Verification
+      ↓
+Cognitive Governance Kernel
+      ↓
+Decision Validation
+      ↓
+Execution Layer
+      ↓
+Audit / Provenance Layer
 
 ## Executive Summary
 
