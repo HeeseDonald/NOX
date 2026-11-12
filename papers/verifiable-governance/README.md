@@ -315,6 +315,43 @@ Heese, D. (2026). Verifiable governance under incomplete observability: A system
 
 If a DOI is later assigned through an archival service, the DOI-backed citation should replace this provisional citation.
 
+Feedback and Technical Review
+
+Technical criticism is welcome, particularly regarding:
+
+hidden architectural assumptions;
+unverifiable control relationships;
+incomplete threat coverage;
+failure propagation;
+monitor compromise;
+enforcement independence;
+residual-opacity classification;
+multi-agent coordination;
+falsifiability;
+and practical implementation constraints.
+
+Please submit review comments through the repository’s issue tracker.
+
+When opening an issue, identify:
+
+the manuscript version;
+the relevant section;
+the claim or mechanism being challenged;
+the supporting evidence or counterexample; and
+the proposed correction, test, or alternative architecture.
+
+Author
+
+Donald Heese
+ Independent Researcher
+ NOX Research Program
+ Muskego, Wisconsin, United States
+
+Repository Notice
+
+This repository contains independent conceptual research.
+
+The presence of a document in the repository does not establish peer review, empirical validation, certification, implementation readiness, or operational safety. Readers should evaluate each claim against the cited literature, stated assumptions, known limitations, and available evidence.
 
 
 
