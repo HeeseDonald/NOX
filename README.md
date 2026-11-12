@@ -192,7 +192,7 @@ If referencing this work, please cite:
 ```text
 Heese, Donald.
 
-NOX: A Sovereign Containment and Assurance Framework for Long-Horizon Agentic Intelligence Risk.
+NOX is a governance and containment architecture for advanced agentic AI systems. The framework investigates how potentially deceptive, misaligned, or uncontrollable intelligent systems may be constrained through externally verifiable controls rather than reliance on model alignment claims.
 
 GitHub Repository.
 https://github.com/HeeseDonald/NOX
@@ -229,3 +229,21 @@ See the LICENSE file for details.
 NOX is a research framework intended for analysis, discussion, and experimentation.
 
 The repository does not claim to provide a complete solution to AI alignment, artificial general intelligence safety, or long-term existential risk management. The concepts presented here should be considered research proposals requiring continued review, validation, and refinement.
+
+What NOX Is Not
+
+NOX is not an alignment framework.
+
+NOX is not an interpretability framework.
+
+NOX is not a reinforcement learning methodology.
+
+NOX is not a regulatory proposal.
+
+NOX is a containment and assurance architecture focused on constraining agency through externally verifiable controls.
+
+
+
+
+
+
