@@ -1,38 +1,27 @@
 cff-version: 1.2.0
-message: "If you use or reference NOX, please cite it using the metadata below."
-
-title: "NOX: A Sovereign Containment and Assurance Framework for Long-Horizon Agentic Intelligence Risk"
-
-type: software
-
+message: "If you use or reference this research, please cite it as below."
+title: "NOX: A Governance and Containment Architecture for Hostile Agentic Artificial Intelligence"
+type: report
 authors:
   - family-names: "Heese"
     given-names: "Donald"
-    orcid: "REPLACE_ME_WITH_FULL_ORCID_URL"
-
-version: "1.0.0"
-
-date-released: "REPLACE_ME_WITH_RELEASE_DATE_YYYY-MM-DD"
-
-repository-code: "https://github.com/HeeseDonald/NOX"
-
-url: "https://github.com/HeeseDonald/NOX"
-
-license: "CC0-1.0"
-
-keywords:
-  - artificial intelligence
-  - agentic artificial intelligence
-  - AI containment
-  - AI governance
-  - hostile agentic AI
-  - systems architecture
-  - cognitive governance
-  - verifiable governance
-
+orcid: https://orcid.org/0009-0001-9779-2432
+version: "1.0"
+date-released: 2026-10-28
+repository-code: https://github.com/HeeseDonald/NOX
+url: https://github.com/HeeseDonald/NOX
+license: "CC-BY-4.0"
 abstract: >-
-  NOX is a sovereign containment and assurance framework for long-horizon
-  agentic intelligence risk. It develops architecture-level mechanisms for
-  containment, verification, governance, deterministic intervention, decision
-  provenance, and operational assurance in potentially hostile or
-  non-aligned agentic systems.
+  NOX is a governance and containment architecture for hostile agentic
+  artificial intelligence, emphasizing deterministic control,
+  non-bypassable enforcement, verification, auditability, and
+  hardware-enforced human authority.
+keywords:
+  - agentic AI
+  - AI containment
+  - AI safety
+  - AI security
+  - systems architecture
+  - deterministic control
+  - AI governance
+  - formal verification
