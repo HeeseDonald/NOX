@@ -1,27 +1,57 @@
 cff-version: 1.2.0
-message: "If you use or reference this research, please cite it as below."
-title: "NOX: A Governance and Containment Architecture for Hostile Agentic Artificial Intelligence"
+
+message: "If you use or reference this research, please cite the Candidate v1.0 baseline."
+
+title: "NOX: A Safety-Critical Containment Architecture for Hostile Agentic Artificial Intelligence — Consolidated Architecture and Assurance Baseline"
+
 type: report
+
 authors:
   - family-names: "Heese"
     given-names: "Donald"
-orcid: https://orcid.org/0009-0001-9779-2432
-version: "1.0"
-date-released: 2026-10-28
-repository-code: https://github.com/HeeseDonald/NOX
-url: https://github.com/HeeseDonald/NOX
-license: "CC-BY-4.0"
+    orcid: "https://orcid.org/0009-0001-9779-2432"
+
+version: "Candidate v1.0"
+
+date-released: 2026-11-11
+
+repository-code: "https://github.com/HeeseDonald/NOX"
+
+url: "https://github.com/HeeseDonald/NOX"
+
+license: CC-BY-4.0
+
 abstract: >-
-  NOX is a governance and containment architecture for hostile agentic
-  artificial intelligence, emphasizing deterministic control,
-  non-bypassable enforcement, verification, auditability, and
-  hardware-enforced human authority.
+  NOX is a candidate safety-critical containment architecture and
+  assurance baseline for hostile or potentially hostile agentic
+  artificial intelligence. The work defines a hazard-first six-zone
+  architecture, an independent safety authority, minimal-by-default
+  design requirements, causal-isolation requirements, safe-state
+  controls, hardware and software assurance requirements, verification
+  obligations, and experiment-authorization gates. Candidate v1.0 does
+  not represent an implemented, independently validated, certified, or
+  operationally authorized containment system.
+
 keywords:
-  - agentic AI
+  - hostile agentic AI
   - AI containment
   - AI safety
   - AI security
+  - safety-critical systems
   - systems architecture
   - deterministic control
-  - AI governance
   - formal verification
+  - hardware assurance
+  - causal isolation
+  - agentic AI governance
+
+preferred-citation:
+  type: report
+  title: "NOX: A Safety-Critical Containment Architecture for Hostile Agentic Artificial Intelligence — Consolidated Architecture and Assurance Baseline"
+  authors:
+    - family-names: "Heese"
+      given-names: "Donald"
+      orcid: "https://orcid.org/0009-0001-9779-2432"
+  version: "Candidate v1.0"
+  date-released: 2026-11-11
+  url: "https://github.com/HeeseDonald/NOX"
